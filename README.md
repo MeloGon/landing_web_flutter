@@ -1,6 +1,7 @@
 # vertical_landing
 
-A new Flutter project.
+This app diplays only a SPA (landing) with web hanlde routes , use segments and querys
+https://brilliant-meerkat-88970a.netlify.app/#/home
 
 ## Getting Started
 
